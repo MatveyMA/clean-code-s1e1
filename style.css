@@ -143,10 +143,11 @@ li > .button-delete:hover {
 }
 
 /* Completed */
-#completed-tasks {
+#completed-tasks label{
   text-decoration: line-through;
   color: #888;
 }
+
 
 /* Edit Task */
 ul li input[type=text] {
